@@ -14,7 +14,7 @@
 <br />
 
 <a href="https://github.com/L4L4-K">
-  <img src="https://img.shields.io/badge/GitHub-LALA--K-0F172A?style=for-the-badge&amp;labelColor=38BDF8&amp;logo=github&amp;logoColor=white" alt="GitHub account" />
+  <img src="https://img.shields.io/badge/GitHub-L4L4--K-0F172A?style=for-the-badge&amp;labelColor=38BDF8&amp;logo=github&amp;logoColor=white" alt="GitHub account" />
 </a>
 <a href="https://github.com/L4L4-K?tab=repositories">
   <img src="https://img.shields.io/badge/Repositories-Explore-0F172A?style=for-the-badge&amp;labelColor=38BDF8&amp;logo=github&amp;logoColor=white" alt="Explore repositories" />
@@ -232,7 +232,7 @@ A compact, theme-based overview of my technical stack.
 
 <p align="center">
   <a href="https://github.com/L4L4-K">
-    <img src="https://img.shields.io/badge/GitHub-LALA--K-0F172A?style=for-the-badge&amp;labelColor=38BDF8&amp;logo=github&amp;logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-L4L4--K-0F172A?style=for-the-badge&amp;labelColor=38BDF8&amp;logo=github&amp;logoColor=white" alt="GitHub" />
   </a>
   <a href="https://github.com/L4L4-K?tab=repositories">
     <img src="https://img.shields.io/badge/Code-Repository%20Map-0F172A?style=for-the-badge&amp;labelColor=38BDF8&amp;logo=github&amp;logoColor=white" alt="Repository map" />
