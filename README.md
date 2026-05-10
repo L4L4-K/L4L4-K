@@ -1,25 +1,25 @@
 <!--
-  Profile README for LALA-K
-  Repository: LALA-K/LALA-K
+  Profile README for L4L4-K
+  Repository: L4L4-K/L4L4-K
 -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&amp;height=255&amp;color=0:020617,45:0F172A,100:38BDF8&amp;text=LALA-K&amp;fontColor=E0F2FE&amp;fontSize=88&amp;fontAlignY=38&amp;desc=C%2B%2B%20%7C%20CUDA%20C%2B%2B%20%7C%20Python%20%7C%20AI-oriented%20software%20engineering&amp;descSize=18&amp;descAlignY=61&amp;animation=fadeIn" alt="LALA-K profile header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&amp;height=255&amp;color=0:020617,45:0F172A,100:38BDF8&amp;text=L4L4-K&amp;fontColor=E0F2FE&amp;fontSize=88&amp;fontAlignY=38&amp;desc=C%2B%2B%20%7C%20CUDA%20C%2B%2B%20%7C%20Python%20%7C%20AI-oriented%20software%20engineering&amp;descSize=18&amp;descAlignY=61&amp;animation=fadeIn" alt="L4L4-K profile header" />
 
-<a href="https://github.com/LALA-K">
+<a href="https://github.com/L4L4-K">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains%20Mono&amp;weight=700&amp;size=22&amp;duration=2800&amp;pause=850&amp;color=38BDF8&amp;center=true&amp;vCenter=true&amp;width=940&amp;height=58&amp;lines=C%2B%2B%2C%20CUDA%20C%2B%2B%2C%20Python;NLP%20%2F%20Data%20Analysis%20%2F%20ML%20%2F%20Computer%20Vision;From%20ambiguous%20requirements%20to%20runnable%20systems;Carpe%20Diem.%20Quod%20tango%20muto." alt="Animated technical summary" />
 </a>
 
 <br />
 
-<a href="https://github.com/LALA-K">
+<a href="https://github.com/L4L4-K">
   <img src="https://img.shields.io/badge/GitHub-LALA--K-0F172A?style=for-the-badge&amp;labelColor=38BDF8&amp;logo=github&amp;logoColor=white" alt="GitHub account" />
 </a>
-<a href="https://github.com/LALA-K?tab=repositories">
+<a href="https://github.com/L4L4-K?tab=repositories">
   <img src="https://img.shields.io/badge/Repositories-Explore-0F172A?style=for-the-badge&amp;labelColor=38BDF8&amp;logo=github&amp;logoColor=white" alt="Explore repositories" />
 </a>
-<img src="https://komarev.com/ghpvc/?username=LALA-K&amp;style=for-the-badge&amp;label=PROFILE+VIEWS&amp;color=38BDF8&amp;abbreviated=true" alt="Profile views counter" />
+<img src="https://komarev.com/ghpvc/?username=L4L4-K&amp;style=for-the-badge&amp;label=PROFILE+VIEWS&amp;color=38BDF8&amp;abbreviated=true" alt="Profile views counter" />
 
 </div>
 
@@ -208,16 +208,16 @@ A compact, theme-based overview of my technical stack.
 </p>
 
 <p align="center">
-  <img width="96%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LALA-K&amp;theme=github_dark" alt="LALA-K profile summary" />
+  <img width="96%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=L4L4-K&amp;theme=github_dark" alt="L4L4-K profile summary" />
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LALA-K&amp;theme=github_dark" alt="LALA-K GitHub stats" />
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LALA-K&amp;theme=github_dark" alt="LALA-K repositories per language" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=L4L4-K&amp;theme=github_dark" alt="L4L4-K GitHub stats" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=L4L4-K&amp;theme=github_dark" alt="L4L4-K repositories per language" />
 </p>
 
 <p align="center">
-  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=LALA-K&amp;bg_color=0D1117&amp;color=E0F2FE&amp;line=38BDF8&amp;point=BAE6FD&amp;area=true&amp;hide_border=true&amp;radius=16&amp;custom_title=Public%20Contribution%20Current" alt="LALA-K public activity graph" />
+  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=L4L4-K&amp;bg_color=0D1117&amp;color=E0F2FE&amp;line=38BDF8&amp;point=BAE6FD&amp;area=true&amp;hide_border=true&amp;radius=16&amp;custom_title=Public%20Contribution%20Current" alt="L4L4-K public activity graph" />
 </p>
 
 <p align="center">
@@ -231,10 +231,10 @@ A compact, theme-based overview of my technical stack.
 </p>
 
 <p align="center">
-  <a href="https://github.com/LALA-K">
+  <a href="https://github.com/L4L4-K">
     <img src="https://img.shields.io/badge/GitHub-LALA--K-0F172A?style=for-the-badge&amp;labelColor=38BDF8&amp;logo=github&amp;logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://github.com/LALA-K?tab=repositories">
+  <a href="https://github.com/L4L4-K?tab=repositories">
     <img src="https://img.shields.io/badge/Code-Repository%20Map-0F172A?style=for-the-badge&amp;labelColor=38BDF8&amp;logo=github&amp;logoColor=white" alt="Repository map" />
   </a>
 </p>
