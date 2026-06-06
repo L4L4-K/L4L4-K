@@ -99,44 +99,6 @@ I have also supported other engineers and created learning infrastructure, inclu
 <br />
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&amp;height=64&amp;color=0D1117&amp;text=Engineering%20Flow&amp;fontSize=28&amp;fontColor=E0F2FE&amp;animation=fadeIn" alt="Engineering Flow" />
-</p>
-
-```mermaid
-flowchart LR
-    A[Unclear requirement] --> B[Extract intent]
-    B --> C[Define observable behavior]
-    C --> D[Prototype]
-    D --> E[Measure]
-    E --> F{Bottleneck?}
-
-    F -->|Compute| G[C++ / CUDA C++]
-    F -->|Data or AI| H[Python workflow]
-    F -->|User workflow| I[Web or desktop app]
-    F -->|Environment| J[Docker / Linux]
-
-    G --> K[Optimization boundary]
-    H --> L[Evaluation loop]
-    I --> M[Usable interface]
-    J --> N[Reproducible setup]
-
-    K --> O[Maintainable system]
-    L --> O
-    M --> O
-    N --> O
-
-    classDef core fill:#0f172a,stroke:#38bdf8,color:#e0f2fe,stroke-width:2px;
-    classDef accel fill:#052e16,stroke:#86efac,color:#dcfce7,stroke-width:2px;
-    classDef app fill:#082f49,stroke:#7dd3fc,color:#e0f2fe,stroke-width:2px;
-
-    class A,B,C,D,E,F,O core;
-    class G,K accel;
-    class H,I,J,L,M,N app;
-```
-
-<br />
-
-<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rounded&amp;height=64&amp;color=0D1117&amp;text=Interests&amp;fontSize=28&amp;fontColor=E0F2FE&amp;animation=fadeIn" alt="Interests" />
 </p>
 
@@ -208,12 +170,8 @@ A compact, theme-based overview of my technical stack.
 </p>
 
 <p align="center">
-  <img width="96%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=L4L4-K&amp;theme=github_dark" alt="L4L4-K profile summary" />
-</p>
-
-<p align="center">
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=L4L4-K&amp;theme=github_dark" alt="L4L4-K GitHub stats" />
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=L4L4-K&amp;theme=github_dark" alt="L4L4-K repositories per language" />
+  <img width="31.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=L4L4-K&amp;theme=github_dark" alt="L4L4-K GitHub stats" />
+  <img width="64.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=L4L4-K&amp;theme=github_dark" alt="L4L4-K profile summary" />
 </p>
 
 <p align="center">
